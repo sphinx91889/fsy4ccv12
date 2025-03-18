@@ -35,13 +35,7 @@ export default function About() {
           <p>Director, FSY4CC</p>
         </div>
 
-        <div className="mt-8 flex justify-center">
-          <img 
-            src="https://pbs.twimg.com/profile_images/378800000258375439/5d150c478d8f294c168f94f8e409f22e_400x400.jpeg" 
-            alt="Corey L. Glover"
-            className="rounded-lg shadow-lg w-64 h-64 object-cover"
-          />
-        </div>
+        
       </div>
     </div>
   );
