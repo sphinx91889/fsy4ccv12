@@ -24,7 +24,7 @@ export default function About() {
           </ul>
         </div>
 
-        <p className="mb-6">Please see the documentation to follow as well as our website (www.fsy4cc.org) for additional information regarding registration and hotel accommodations. You may also join the FSY4CC Facebook family. Registration is $50 per person for ages 3-6 and $100 per person for ages 7 and up. All registration forms, team lists & payments must be received by the registration deadline of June 1, 2025. Check payments should be made payable to Hallandale Beach Church of Christ and mailed to: 305 North Dixie Highway, Hallandale Beach, FL 33009. Please indicate FSY4CC in the memo section. Registration payments can also be made online on the conference website. Please complete and submit the forms on the website.</p>
+        <p className="mb-6">Please see the documentation to follow as well as our website (www.fsy4cc.com) for additional information regarding registration and hotel accommodations. You may also join the FSY4CC Facebook family. Registration is $50 per person for ages 3-6 and $100 per person for ages 7 and up. All registration forms, team lists & payments must be received by the registration deadline of June 1, 2025. Check payments should be made payable to Hallandale Beach Church of Christ and mailed to: 305 North Dixie Highway, Hallandale Beach, FL 33009. Please indicate FSY4CC in the memo section. Registration payments can also be made online on the conference website. Please complete and submit the forms on the website.</p>
 
         <p className="mb-8">We cordially invite your youth, youth workers, and parents to attend this inspiring and encouraging Christian youth event. Space is limited. Reserve your room and register for the conference now!</p>
 
