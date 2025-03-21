@@ -28,7 +28,7 @@ export default function ArtFair() {
               Register and submit your artwork for the competition.
             </p>
             <a 
-              href="#"
+              href="https://storage.googleapis.com/msgsndr/PO72vKGaKYHArh9FNTOw/media/67d8bdda101fd93e396a09fd.pdf"
               className="bg-black text-white px-6 py-3 rounded-full inline-block hover:bg-gray-800 transition"
             >
               Submit Entry
