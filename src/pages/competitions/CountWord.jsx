@@ -28,7 +28,7 @@ export default function CountWord() {
               Register for the Count on the Word competition.
             </p>
             <a 
-              href="#"
+              href="https://storage.googleapis.com/msgsndr/PO72vKGaKYHArh9FNTOw/media/67d8bd81ac48a527ca65ba78.pdf"
               className="bg-black text-white px-6 py-3 rounded-full inline-block hover:bg-gray-800 transition"
             >
               Register Now
