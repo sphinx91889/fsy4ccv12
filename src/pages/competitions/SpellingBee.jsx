@@ -28,7 +28,7 @@ export default function SpellingBee() {
               Register for the Spelling Bee competition.
             </p>
             <a 
-              href="#"
+              href="https://storage.googleapis.com/msgsndr/PO72vKGaKYHArh9FNTOw/media/67d8bdc46f2ddb2f4b9c82ff.pdf"
               className="bg-black text-white px-6 py-3 rounded-full inline-block hover:bg-gray-800 transition"
             >
               Register Now
